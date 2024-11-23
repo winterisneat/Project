@@ -1,4 +1,4 @@
-name: dstoolbox
+name: project-env
 channels:
   - defaults
   - conda-forge
