@@ -1,1 +1,2 @@
 # New Project for my Data Science Course!
+This project was to pull a previously made project repo and rearrange the files to make it easier to work on with renaming the files as well as creating a folder structure that adheres to the standard practices. A enviroment.yaml was created to allow other users to set up their enviroment in the same manner as what was used to complete the work.
